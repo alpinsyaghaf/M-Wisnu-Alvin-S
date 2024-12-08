@@ -1,0 +1,21 @@
+PersediaanID,ProdukID,NamaProduk,JumlahStok,LokasiGudang
+4,1004,Produk D,400,Gudang Barat
+8,1008,Produk H,250,Gudang Barat
+12,1012,Produk L,500,Gudang Barat
+16,1016,Produk P,350,Gudang Barat
+20,1020,Produk T,100,Gudang Barat
+3,1003,Produk C,300,Gudang Timur
+7,1007,Produk G,300,Gudang Timur
+11,1011,Produk K,400,Gudang Timur
+15,1015,Produk O,450,Gudang Timur
+19,1019,Produk S,300,Gudang Timur
+1,1001,Produk A,500,Gudang Utara
+5,1005,Produk E,350,Gudang Utara
+9,1009,Produk I,200,Gudang Utara
+13,1013,Produk M,300,Gudang Utara
+17,1017,Produk Q,400,Gudang Utara
+2,1002,Produk B,200,Gudang Selatan
+6,1006,Produk F,450,Gudang Selatan
+10,1010,Produk J,150,Gudang Selatan
+14,1014,Produk N,200,Gudang Selatan
+18,1018,Produk R,250,Gudang Selatan
